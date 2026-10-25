@@ -1,0 +1,22 @@
+# Bilingual-pair consistency record for agent-runtime-overview.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write docs/user/develop/framework/agent-runtime-overview.md
+/agent-runtime-overview:
+  en: f208871cf974f994
+  zh: a757ee27e5883c78
+/agent-runtime-overview/runtime:
+  en: 638e6ddf71af3e60
+  zh: b211101aab4d9abc
+/agent-runtime-overview/sandbox-and-execution-world:
+  en: 6a5ac2782be971d3
+  zh: a0c655ae82e1943a
+/agent-runtime-overview/agent-to-agent-communication:
+  en: 2530ff9196a876e7
+  zh: 15487967069131a1
+/agent-runtime-overview/console-and-ui-communication-with-an-agent:
+  en: e994c4124cdf0bb1
+  zh: 575f73275810ed2e
+/agent-runtime-overview/kubernetes-and-distributed-deployment:
+  en: 412c795bf1eb1156
+  zh: cebc7e959bd66b1c

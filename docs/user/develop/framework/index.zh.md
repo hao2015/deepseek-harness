@@ -4,6 +4,8 @@
 
 本页介绍 Cordis 插件模型和生命周期状态机。
 
+另见 [Agent 运行时概览](agent-runtime-overview.zh.md)、[service.md](service.zh.md) 和 [events.md](events.zh.md)。
+
 ## Fiber 状态机
 
 每个被加载的插件都拥有一个 **Fiber** 作用域，其状态如下：

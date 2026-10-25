@@ -4,6 +4,8 @@ English | [中文](index.zh.md)
 
 This page describes the Cordis plugin model and lifecycle state machine.
 
+See also [Agent runtime overview](agent-runtime-overview.md), [service.md](service.md), and [events.md](events.md).
+
 ## Fiber state machine
 
 Every loaded plugin owns a **Fiber** scope with the following states:
